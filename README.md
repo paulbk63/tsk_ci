@@ -52,5 +52,3 @@ This captures the **rule-driven interpretability** and **feature-space lift** fr
 - Gu et al., *Takagi–Sugeno–Kang Fuzzy Clustering by Direct Fuzzy Inference on Fuzzy Rules*, IEEE TETCI, 2024.
 - Pedregosa et al., *Scikit-learn: Machine Learning in Python*, JMLR, 2011.
 
-
-C:\ProgramData\anaconda3\envs\windsurf_pgm_v1\python.exe -m streamlit run app_streamlit.py
