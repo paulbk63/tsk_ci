@@ -1,0 +1,16 @@
+Cluster,Rule #,Antecedent,Avg Firing
+0,0,sepal length (cm) is Very High AND sepal width (cm) is Low AND petal length (cm) is High AND petal width (cm) is High,0.3249406807994587
+0,7,sepal length (cm) is Very High AND sepal width (cm) is Low AND petal length (cm) is High AND petal width (cm) is High,0.3249406807994587
+0,4,sepal length (cm) is Medium AND sepal width (cm) is High AND petal length (cm) is Very High AND petal width (cm) is Very High,0.0995373922677689
+0,10,sepal length (cm) is Very High AND sepal width (cm) is Medium AND petal length (cm) is Low AND petal width (cm) is High,0.09285684279195908
+0,6,sepal length (cm) is Very Low AND sepal width (cm) is Medium AND petal length (cm) is Very Low AND petal width (cm) is Low,0.03576438446929095
+1,6,sepal length (cm) is Very Low AND sepal width (cm) is Medium AND petal length (cm) is Very Low AND petal width (cm) is Low,0.4944404814469277
+1,8,sepal length (cm) is Very Low AND sepal width (cm) is High AND petal length (cm) is Very Low AND petal width (cm) is Low,0.3986261686874829
+1,5,sepal length (cm) is Very Low AND sepal width (cm) is Very Low AND petal length (cm) is Very Low AND petal width (cm) is High,0.05532135296434727
+1,2,sepal length (cm) is Medium AND sepal width (cm) is Medium AND petal length (cm) is Very Low AND petal width (cm) is Very High,0.009338241163031781
+1,1,sepal length (cm) is Very High AND sepal width (cm) is Low AND petal length (cm) is Very Low AND petal width (cm) is Low,0.008094731932683098
+2,4,sepal length (cm) is Medium AND sepal width (cm) is High AND petal length (cm) is Very High AND petal width (cm) is Very High,0.49302010732780716
+2,7,sepal length (cm) is Very High AND sepal width (cm) is Low AND petal length (cm) is High AND petal width (cm) is High,0.1987875250385608
+2,0,sepal length (cm) is Very High AND sepal width (cm) is Low AND petal length (cm) is High AND petal width (cm) is High,0.1987875250385608
+2,10,sepal length (cm) is Very High AND sepal width (cm) is Medium AND petal length (cm) is Low AND petal width (cm) is High,0.04704854413683987
+2,9,sepal length (cm) is Very Low AND sepal width (cm) is Very Low AND petal length (cm) is Very High AND petal width (cm) is Very High,0.030203692184977773
